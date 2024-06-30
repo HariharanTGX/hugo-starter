@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: hariharan759862-hugo-starter
+owner: hariharan759862
+package: .
